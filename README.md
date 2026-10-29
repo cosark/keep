@@ -902,6 +902,11 @@ Keep can run in various environments and configurations. The easiest way to star
 - Running Keep on [AWS ECS](https://docs.keephq.dev/deployment/ecs).
 - Running Keep on [OpenShift](https://docs.keephq.dev/deployment/kubernetes/openshift).
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/Keep/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://render.com/deploy?repo=https://github.com/keephq/keep"><img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy on Render" height="42"></a>
+
 ## 🫵 Keepers
 
 ### Top Contributors
